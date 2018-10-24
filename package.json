@@ -1,0 +1,10 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "alexanderkalinchyk <alexander.kalinchyk@student.howest.be>",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.22.0"
+  }
+}
