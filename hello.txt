@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 edit in project
+=======
+and edit in project2
+>>>>>>> changed to hello text in project 2
